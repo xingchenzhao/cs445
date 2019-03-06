@@ -6,4 +6,4 @@ collection of GroceryItems.
 * a2: **Calculator for infix and postfix arithmetic expression**
 * a3: **Sudoku Solver** using backtracking technique
 * a4: **A abstract data type** represents the backend for a streaming radio service. It stores the songs, stations, and users in the system, as well as the ratings that users assign to songs.
-* a5: **Implement Tenary Tree**
+* a5: **Implements Tenary Tree**
